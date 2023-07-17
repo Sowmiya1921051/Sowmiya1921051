@@ -1,7 +1,13 @@
-<h1 align="center">Hi 👋, I'm Sowmiya</h1>
+
+
+
+<h1 align="center">Hi 👋, I'm Sowmiya 🥰</h1>
 <h3 align="center">Am a Front Developer passionate and experienced in building Web applications</h3>
 
+
 <p align="center"> <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="sowmiya1921051" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sowmiya1921051&label=Profile%20views&color=0e75b6&style=flat" alt="sowmiya1921051" /> </p>
 
 - 🔭 I’m currently working on **Reach Soon**
 
