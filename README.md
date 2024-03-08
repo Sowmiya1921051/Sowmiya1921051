@@ -1,3 +1,6 @@
+
+
+
 <h1 align="center">Hi 👋, I'm Sowmiya 🥰</h1>
 <h3 align="center">Am a Front Developer passionate and experienced in building Web applications</h3>
 
@@ -8,7 +11,7 @@
 
 - 🔭 I’m currently working on **Reach Soon**
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Mern Stack**
 
 - 👨‍💻 All of my projects are available at [https://sowmiya-portfolio.netlify.app/](https://sowmiya-portfolio.netlify.app/)
 
