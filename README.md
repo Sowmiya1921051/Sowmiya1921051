@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Sowmiya 😻</h1>
+<h1 align="center">Hi 👋, I'm Sowmiya 🌸</h1>
 <h3 align="center">Am a Front Developer passionate and experienced in building Web applications</h3>
 
 
