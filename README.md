@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **React Native-based chat application and multiple MERN stack projects**
 - 🌱 I’m currently improving my skills in **React Native, Node.js, Express.js, MongoDB**
 - 👨‍💻 Portfolio: [sowmiya-portfolio.netlify.app](https://sowmiya-portfolio.netlify.app/)
-- 📄 Resume: [View Resume](https://drive.google.com/file/d/1IsNEsiWwJSCXH7b7kadC2vOZoaMZJqX-/view?usp=drive_link)
+- 📄 Resume: [View Resume](https://drive.google.com/file/d/19cF-jIaSw0OXk3n_4ekKdCiBaElB54dD/view?usp=sharing)
 
 ---
 
@@ -53,4 +53,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sowmiya1921051&show_icons=true&locale=en" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sowmiya1921051" /></p>
-
