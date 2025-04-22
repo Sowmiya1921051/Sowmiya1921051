@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer focused on building modern, responsive, and dynamic web and mobile applications.</h3>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" alt="coding" />
+  <img src="https://i.pinimg.com/originals/6d/38/17/6d3817efe69670ccb4cf2aea31165430.gif" alt="coding" />
 </p>
 
 <p align="left">
